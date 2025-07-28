@@ -1,58 +1,49 @@
-# Hi 👋, I'm Pintu Kumar Sharma (intensity4143)
+<h1 align="center">Hi 👋, I'm Pintu Kumar Sharma</h1>
 
-**Full‑Stack Web Developer | C/C++ & DSA Enthusiast | Student at KIET Group of Institutions**
-
----
-
-## 🧑‍💻 About Me
-
-I’m a passionate developer from India skilled in:
-
-- **Web Development**: HTML · CSS · JavaScript  
-- **Backend Logic**: C and C++  
-- **Algorithm & Data Structure** (DSA) problem-solving  
-- Exploring **Python** and modern tech trends
+<p align="center">
+  💻 Full Stack Web Developer | 🎓 Student at KIET Group of Institutions <br>
+  ⚙️ C/C++ | 🧠 Data Structures & Algorithms | 🌱 Lifelong Learner
+</p>
 
 ---
 
-## ⚒️ Featured Projects
+## 🔧 Skills & Tools
 
-### 🔢 Calculator (HTML · CSS · JS)  
-A functional web-based calculator supporting basic arithmetic operations. Clean design and responsive layout.
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🌡️ Temperature Converter (HTML · CSS · JS)  
-Convert between Celsius, Fahrenheit, and Kelvin with a polished and intuitive UI.
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 📺 Netflix Clone (HTML · CSS · JS)  
-Replica of Netflix's interface and hover effects, offering engaging UX on responsive screens.
-
-### 🖥️ Portfolio Website  
-A showcase of my projects, skills, and experience with an interactive and responsive design.
-
-### ❌ Tic-Tac-Toe Game  
-Browser‑based interactive game with player custom names and a responsive grid.
-
-### ☁️ Weather App (HTML · CSS · JS)  
-Live weather info with interactive search and map support.
-
----
-
-## 🌱 What I'm Learning
-
-- **Advanced DSA & Systems Design**
-- **RESTful API Development & Security**
-- **DevOps tools and cloud deployment workflows**
+### 🛠️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💬 Connect with Me
+## 📌 Projects
 
-- 💌 Email: *[Add your email here]*  
-- 🔗 LinkedIn: [in/pintu-sharma‑2b6a33290](https://www.linkedin.com/in/pintu-sharma-2b6a33290) :contentReference[oaicite:1]{index=1}
+- 🔢 **Calculator App** – HTML/CSS/JS-based calculator with clean UI  
+- 🌡️ **Temperature Converter** – Real-time temp unit converter  
+- 📺 **Netflix UI Clone** – A responsive clone of Netflix landing page  
+- 🖥️ **Portfolio Website** – Personal web dev portfolio  
+- ❌ **Tic Tac Toe Game** – Fun browser-based game with user inputs  
+- 🌦️ **Weather App** – Weather forecast app using real-time APIs
 
 ---
 
-## 🚀 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=intensity4143&show_icons=true&theme=github_dark" width="47%" />
@@ -61,22 +52,11 @@ Live weather info with interactive search and map support.
 
 ---
 
-## 📌 Quick Links
+## 🤝 Connect with Me
 
-| Type | Description |
-|------|-------------|
-| **IMPACTFUL PROJECTS** | Calculator, Temperature Converter, Netflix Clone, Portfolio, Tic-Tac-Toe, Weather App |
-| **TECH STACK** | JavaScript, C, C++, Responsive Web UI |
-| **UPCOMING GOALS** | Expand into backend work, backend‑devops integration, open source contributions |
+- 💼 [LinkedIn](https://www.linkedin.com/in/pintu-sharma-2b6a33290/)
+- 📧 Email: ipintu4143@gmail.com
 
 ---
 
-## 🧭 Career Goals
-
-- Solve real-world problems with clean, scalable web solutions  
-- Showcase reliability through code quality and performance  
-- Contribute to meaningful open-source projects
-
----
-
-*Specializing in simplicity, clarity, and continuous growth. Let’s connect!*  
+> “Consistency is more important than perfection.” – Let's build something amazing together 🚀
