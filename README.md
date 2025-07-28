@@ -1,17 +1,82 @@
-<h1 align="center">Hi 👋, I'm Pintu Kumar Sharma</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+# Hi 👋, I'm Pintu Kumar Sharma (intensity4143)
 
-- 📫 How to reach me **ipintu4143@gmail.com**
+**Full‑Stack Web Developer | C/C++ & DSA Enthusiast | Student at KIET Group of Institutions**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/intensity4143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="intensity4143" height="30" width="40" /></a>
-<a href="https://instagram.com/its_me_unreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_unreal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pintu_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pintu_sharma" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/intensity4143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="intensity4143" height="30" width="40" /></a>
+---
+
+## 🧑‍💻 About Me
+
+I’m a passionate developer from India skilled in:
+
+- **Web Development**: HTML · CSS · JavaScript  
+- **Backend Logic**: C and C++  
+- **Algorithm & Data Structure** (DSA) problem-solving  
+- Exploring **Python** and modern tech trends
+
+---
+
+## ⚒️ Featured Projects
+
+### 🔢 Calculator (HTML · CSS · JS)  
+A functional web-based calculator supporting basic arithmetic operations. Clean design and responsive layout.
+
+### 🌡️ Temperature Converter (HTML · CSS · JS)  
+Convert between Celsius, Fahrenheit, and Kelvin with a polished and intuitive UI.
+
+### 📺 Netflix Clone (HTML · CSS · JS)  
+Replica of Netflix's interface and hover effects, offering engaging UX on responsive screens.
+
+### 🖥️ Portfolio Website  
+A showcase of my projects, skills, and experience with an interactive and responsive design.
+
+### ❌ Tic-Tac-Toe Game  
+Browser‑based interactive game with player custom names and a responsive grid.
+
+### ☁️ Weather App (HTML · CSS · JS)  
+Live weather info with interactive search and map support.
+
+---
+
+## 🌱 What I'm Learning
+
+- **Advanced DSA & Systems Design**
+- **RESTful API Development & Security**
+- **DevOps tools and cloud deployment workflows**
+
+---
+
+## 💬 Connect with Me
+
+- 💌 Email: *[Add your email here]*  
+- 🔗 LinkedIn: [in/pintu-sharma‑2b6a33290](https://www.linkedin.com/in/pintu-sharma-2b6a33290) :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=intensity4143&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=intensity4143&theme=github-dark" width="47%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intensity4143&" alt="intensity4143" /></p>
+## 📌 Quick Links
+
+| Type | Description |
+|------|-------------|
+| **IMPACTFUL PROJECTS** | Calculator, Temperature Converter, Netflix Clone, Portfolio, Tic-Tac-Toe, Weather App |
+| **TECH STACK** | JavaScript, C, C++, Responsive Web UI |
+| **UPCOMING GOALS** | Expand into backend work, backend‑devops integration, open source contributions |
+
+---
+
+## 🧭 Career Goals
+
+- Solve real-world problems with clean, scalable web solutions  
+- Showcase reliability through code quality and performance  
+- Contribute to meaningful open-source projects
+
+---
+
+*Specializing in simplicity, clarity, and continuous growth. Let’s connect!*  
