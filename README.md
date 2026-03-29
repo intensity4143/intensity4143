@@ -34,13 +34,22 @@
 
 ## 📌 Projects
 
-- 🔢 **Calculator App** – HTML/CSS/JS-based calculator with clean UI  
-- 🌡️ **Temperature Converter** – Real-time temp unit converter  
-- 📺 **Netflix UI Clone** – A responsive clone of Netflix landing page  
-- 🖥️ **Portfolio Website** – Personal web dev portfolio  
-- ❌ **Tic Tac Toe Game** – Fun browser-based game with user inputs  
-- 🌦️ **Weather App** – Weather forecast app using real-time APIs
+- 🛍️ **TrendCart (E-Commerce Website)**  
+  Full-stack MERN application with cart management and payment integration (Razorpay, Stripe, COD)
 
+- 📋 **Task Manager App**  
+  Full-stack MERN application with authentication and CRUD operations for task management
+
+- 🌦️ **Weather App**  
+  Displays real-time weather data using external APIs
+
+- 🧮 **Calculator App**  
+  Simple calculator built using HTML, CSS, and JavaScript
+
+- ❌ **Tic Tac Toe Game**  
+  Browser-based game with interactive UI
+
+- ➕ *Many more projects available on my GitHub profile*
 ---
 
 ## 📈 GitHub Stats
