@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://pintu-portfolio-xi.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/pintu-sharma-2b6a33290/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/intensity4143/">LinkedIn</a> •
   <a href="mailto:ipintu4143@gmail.com">Email</a>
 </p>
 
@@ -115,7 +115,7 @@ Full-stack task management application with secure authentication and CRUD funct
 
 <p align="left">
   <a href="https://pintu-portfolio-xi.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/pintu-sharma-2b6a33290/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/intensity4143/">LinkedIn</a> •
   <a href="mailto:ipintu4143@gmail.com">Email</a>
 </p>
 
